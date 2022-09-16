@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CreateAdBanner /> should render correclty 1`] = `
+<div
+  class="pt-1 bg-nlw-gradient mt-8 self-stretch rounded-lg overflow-hidden"
+>
+  <div
+    class="bg-[#2A2634] px-8 py-6 self-stretch flex justify-between items-center"
+  >
+    <div>
+      <h2
+        class="text-2xl text-white font-black"
+      >
+        Não encontrou seu duo?
+      </h2>
+      <p
+        class="text-zinc-400"
+      >
+        Publique um anúncio para encontrar novos players!
+      </p>
+    </div>
+    <button
+      aria-controls="radix-:r0:"
+      aria-expanded="false"
+      aria-haspopup="dialog"
+      class="py-3 px-4 bg-violet-600 hover:bg-violet-700 text-white rounded flex items-center gap-3"
+      data-state="closed"
+      type="button"
+    >
+      <svg
+        fill="currentColor"
+        height="24"
+        viewBox="0 0 256 256"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="none"
+          height="256"
+          width="256"
+        />
+        <line
+          fill="none"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="16"
+          x1="84"
+          x2="148"
+          y1="116"
+          y2="116"
+        />
+        <line
+          fill="none"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="16"
+          x1="116"
+          x2="116"
+          y1="84"
+          y2="148"
+        />
+        <circle
+          cx="116"
+          cy="116"
+          fill="none"
+          r="84"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="16"
+        />
+        <line
+          fill="none"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="16"
+          x1="175.4"
+          x2="224"
+          y1="175.4"
+          y2="224"
+        />
+      </svg>
+       Publica anúncio
+    </button>
+  </div>
+</div>
+`;
