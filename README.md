@@ -10,6 +10,7 @@
 
 
 
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -31,6 +32,18 @@ Next Level Week eSports
 ## 🔖 Layout
 
 O layout você poderá acessar através [desse link](https://www.figma.com/file/Dyzy79bRaBq3PY7MyrZOlf/NLW-eSports-(Community)?node-id=0%3A1).
+
+### 🔖 Todo
+
+[x] Jest
+[ ] Cypess
+[ ] Responsivo
+[ ] Usar o componente de select do radix
+[ ] Validação do formulário https://react-hook-form.com/
+[ ] Atutenticação com o Discord
+[ ] Exibir os anúncios criados
+[ ] Carrosel https://keen-slider.io/
+
 
 
 ## :memo: Licença

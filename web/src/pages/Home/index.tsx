@@ -5,16 +5,15 @@ import { AdsModal } from 'src/components/AdsModal';
 import { logoImg } from 'src/assets';
 
 import { Game, GameList } from 'src/components/GameList';
+import axios from 'axios';
 
 export function Home() {
   const [games, setGames] = useState<Game[]>([]);
   // hook de efeitos colaterais
   useEffect(() => {
-    fetch('http://localhost:3333/games')
-      .then((res) => res.json())
-      .then((res) => {
-        setGames(res);
-      });
+    axios('http://localhost:3333/games').then((res) => {
+      setGames(res.data);
+    });
   }, []);
   return (
     <div className="max-w-[1344px] mx-auto flex items-center flex-col my-20 ">
