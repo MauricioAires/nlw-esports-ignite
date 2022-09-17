@@ -10,6 +10,9 @@
 
 
 
+## Sobre
+
+Está procurando pessoas para “fechar” sua equipe? Já conhece o eSports? Ele é um aplicativo feito para encontrar jogadores e fazer novas amizades. Ele é como se fosse uma rede social para gamers. Bem legal, né? 💙
 
 ## Tecnologias
 
@@ -33,7 +36,7 @@ Next Level Week eSports
 
 O layout você poderá acessar através [desse link](https://www.figma.com/file/Dyzy79bRaBq3PY7MyrZOlf/NLW-eSports-(Community)?node-id=0%3A1).
 
-### 🔖 Todo
+## :construction: Todo
 
 - [x] Jest
 - [ ]  Cypess
