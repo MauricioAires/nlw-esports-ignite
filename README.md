@@ -35,14 +35,14 @@ O layout você poderá acessar através [desse link](https://www.figma.com/file/
 
 ### 🔖 Todo
 
-[x] Jest
-[ ] Cypess
-[ ] Responsivo
-[ ] Usar o componente de select do radix
-[ ] Validação do formulário https://react-hook-form.com/
-[ ] Atutenticação com o Discord
-[ ] Exibir os anúncios criados
-[ ] Carrosel https://keen-slider.io/
+- [x] Jest
+- [ ]  Cypess
+- [ ] Responsivo
+- [ ] Usar o componente de select do radix
+- [ ] Validação do formulário https://react-hook-form.com/
+- [ ] Atutenticação com o Discord
+- [ ] Exibir os anúncios criados
+- [ ] Carrosel https://keen-slider.io/
 
 
 
